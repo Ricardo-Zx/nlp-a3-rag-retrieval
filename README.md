@@ -12,7 +12,7 @@ This project investigates retrieval quality in RAG (Retrieval-Augmented Generati
 |-------|-------------|-------------|
 | **Block 1** | BM25 vs Dense vs Hybrid RRF (main experiment) | Hybrid best on all metrics |
 | **Block 2** | Chunking strategy (100 / 200 / 400 words) | Larger chunks slightly better for SQuAD |
-| **Block 3** | Embedding model comparison (MiniLM / mpnet / bge-small) | bge-small best Recall@1, mpnet best overall |
+| **Block 3** | Embedding model comparison (MiniLM / mpnet / bge-small) | bge-small best Recall@1 and MRR; mpnet-base highest Recall@10 but much slower |
 | **Block 4** | Per-question error analysis | BM25 vocabulary mismatch accounts for most failures |
 
 ## Main Results
