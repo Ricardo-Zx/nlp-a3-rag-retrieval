@@ -40,6 +40,6 @@ Or open directly in Google Colab - all dependencies are installed in the first c
 ## Team Members
 
 - Yuchang Zhang (25678259)
-- [Name] ([Student ID])
+- Jiguang Wen (14347328)
 - [Name] ([Student ID])
 - [Name] ([Student ID])
