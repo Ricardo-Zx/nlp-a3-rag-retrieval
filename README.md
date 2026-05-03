@@ -41,5 +41,5 @@ Or open directly in Google Colab - all dependencies are installed in the first c
 
 - Yuchang Zhang (25678259)
 - Jiguang Wen (14347328)
-- [Name] ([Student ID])
-- [Name] ([Student ID])
+- Yuchen Hou (25521156)
+- Jiawen Wang (25760481)
